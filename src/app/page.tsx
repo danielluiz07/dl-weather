@@ -1,5 +1,6 @@
 import SearchBar from "../components/SearchBar";
 import WeatherCard from "../components/WeatherCard";
+import { getWeather } from "@/lib/weather";
 
 export default function Home() {
   const mockData = {
