@@ -2,7 +2,6 @@ import SearchBar from "../components/SearchBar";
 import WeatherCard from "../components/WeatherCard";
 
 export default function Home() {
-  // Dados mockados apenas para você visualizar a UI agora
   const mockData = {
     city: "João Pessoa",
     temp: 28,
