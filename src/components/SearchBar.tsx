@@ -20,7 +20,7 @@ export default function SearchBar() {
         type="text"
         value={city}
         onChange={(e) => setCity(e.target.value)}
-        placeholder="Buscar cidade (ex: João Pessoa)..."
+        placeholder="Buscar cidade (ex: Picuí)..."
         className="w-full p-4 pl-12 rounded-2xl bg-white/10 border border-white/20 text-white placeholder-white/60 focus:outline-none focus:ring-2 focus:ring-blue-400 transition-all backdrop-blur-md"
       />
       <button type="submit">
