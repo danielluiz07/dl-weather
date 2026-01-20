@@ -13,7 +13,7 @@ export default async function Home({searchParams}: HomeProps) {
   const weatherData = await getWeather(cityName)
 
   return (
-    <main className="min-h-screen flex flex-col items-center justify-center p-6 bg-gradient-to-br from-blue-600 via-indigo-700 to-purple-800">
+    <main className="min-h-screen flex flex-col items-center justify-center p-6 bg-gradient-to-br from-slate-500 via-slate-700 to-slate-800">
       <div className="w-full max-w-2xl text-center mb-10 text-white">
         <h1 className="text-4xl font-bold mb-2">DL Weather</h1>
         <p className="text-white/70">Previsão em tempo real com Next.js & TS</p>
