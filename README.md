@@ -21,4 +21,8 @@ O projeto utiliza uma stack robusta focada em escalabilidade:
 | **Lucide React** | Biblioteca de ícones leves e modernos. |
 | **OpenWeather API** | Fonte de dados climáticos globais. |
 
+## Como Executar o Projeto
 
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/danielluiz07/dl-weather.git](https://github.com/danielluiz07/dl-weather.git)
