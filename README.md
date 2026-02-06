@@ -26,3 +26,7 @@ O projeto utiliza uma stack robusta focada em escalabilidade:
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/danielluiz07/dl-weather.git](https://github.com/danielluiz07/dl-weather.git)
+   
+2. **Instale as dependências:**
+   ```bash
+   npm install
