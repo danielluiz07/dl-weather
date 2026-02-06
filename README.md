@@ -34,3 +34,7 @@ O projeto utiliza uma stack robusta focada em escalabilidade:
 3. **Configure as variáveis de ambiente:** Crie um arquivo .env na raiz e adicione sua chave:
    ```bash
    NEXT_PUBLIC_WEATHER_API_KEY=sua_chave_da_openweather
+   
+4. **Inicie o servidor de desenvolvimento:**
+   ```bash
+   npm run dev
