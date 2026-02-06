@@ -14,7 +14,7 @@ O projeto utiliza uma stack robusta focada em escalabilidade:
 
 | Tecnologia | Finalidade |
 | :--- | :--- |
-| **Next.js 15** | Framework React com App Router e Server Components. |
+| **Next.js 16** | Framework React com App Router e Server Components. |
 | **TypeScript** | Garantia de tipos e segurança no fluxo de dados da API. |
 | **Tailwind CSS** | Estilização utilitária e design responsivo. |
 | **Lucide React** | Biblioteca de ícones leves e modernos. |
