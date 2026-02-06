@@ -21,6 +21,15 @@ O projeto utiliza uma stack robusta focada em escalabilidade:
 | **Lucide React** | Biblioteca de ícones leves e modernos. |
 | **OpenWeather API** | Fonte de dados climáticos globais. |
 
+## Aprendizados Técnicos
+
+Este projeto foi fundamental para colocar em prática conceitos avançados:
+
+* **Server Components vs Client Components:** Entendimento de quando delegar o processamento ao servidor para melhorar o LCP.
+* **Data Fetching & Cache:** Uso do `fetch` com revalidação de tempo (`next: { revalidate }`) para otimizar chamadas repetitivas à API.
+* **Manipulação de URL Params:** Sincronização da barra de busca com os parâmetros da URL para permitir compartilhamento de buscas específicas.
+* **Segurança com Environment Variables:** Configuração correta de variáveis `.env` para proteger chaves de API sensíveis.
+
 ## Como Executar o Projeto
 
 1. **Clone o repositório:**
