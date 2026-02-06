@@ -38,3 +38,5 @@ O projeto utiliza uma stack robusta focada em escalabilidade:
 4. **Inicie o servidor de desenvolvimento:**
    ```bash
    npm run dev
+
+Acesse http://localhost:3000 no seu navegador
