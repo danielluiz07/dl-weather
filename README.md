@@ -48,4 +48,4 @@ Este projeto foi fundamental para colocar em prática conceitos avançados:
    ```bash
    npm run dev
 
-Acesse http://localhost:3000 no seu navegador
+Acesse `http://localhost:3000` no seu navegador
